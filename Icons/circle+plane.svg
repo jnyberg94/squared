@@ -1,0 +1,7 @@
+<svg viewBox="0 0 425 242" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path class="circle" d="M424 222C424 99.9451 334.009 1 223 1C111.991 1 22 99.9451 22 222" stroke="black"/>
+<g class="plane">
+    <path d="M23.5185 196L22.6522 221.004" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M23.5186 196L37.2305 227.199L22.6523 221.004L7.68021 226.175L23.5186 196Z" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</svg>
